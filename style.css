@@ -44,6 +44,15 @@ button:hover{
     border: 1px 1px 1px solid rgb(0, 0, 0);
 
 }
+button{
+    margin-top: 10px;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    font-size: 15px;
+    border: 1px 1px 1px solid rgb(0, 0, 0)
+
+}
 
 span{
     color: rgb(95, 9, 9);
